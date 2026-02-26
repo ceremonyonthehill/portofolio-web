@@ -34,7 +34,7 @@ export default function Home() {
       {/* --- TERMINAL INPUT BOX --- */}
 <div className="relative group font-martian text-sm md:text-base flex items-center gap-3 px-4 py-3 mt-16 md:mt-24 w-full max-w-2xl mx-auto border border-zinc-800 hover:border-zinc-500 focus-within:border-zinc-500 rounded-md bg-[#0a0a0a] transition-all">
 
-  <span className="absolute -top-7 left-0 text-xs text-[#4ec9b0] opacity-0 group-hover:opacity-100 group-focus-within:opacity-100 transition-opacity duration-300">
+  <span className="absolute -top-10 left-0 text-xs text-[#4ec9b0] opacity-0 group-hover:opacity-100 group-focus-within:opacity-100 transition-opacity duration-300">
     type for more: 'about', 'project', or 'contact'
   </span>
 
